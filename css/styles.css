@@ -41,11 +41,10 @@ section {
 section.active {
   display: block;
 }
-/* Carousel now fills more vertical space and centers image with blank margins */
 .carousel {
   position: relative;
   width: 100%;
-  height: 60vh; /* use 60% of viewport height */
+  height: 60vh;
   margin-bottom: 20px;
   overflow: hidden;
   background: #fff;
@@ -53,10 +52,10 @@ section.active {
 .carousel img {
   position: absolute;
   top: 0;
-  left: 20%; /* blank 20% on left */
-  width: 60%; /* central image takes 60% of width */
+  left: 20%;
+  width: 60%;
   height: 100%;
-  object-fit: contain; /* show full image */
+  object-fit: contain;
   cursor: pointer;
 }
 .arrow {
@@ -76,10 +75,10 @@ section.active {
   cursor: not-allowed;
 }
 .prev {
-  left: 10%; /* center of left blank */
+  left: 10%;
 }
 .next {
-  right: 10%; /* center of right blank */
+  right: 10%;
 }
 .product-detail-container {
   display: flex;
