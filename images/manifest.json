@@ -1,7 +1,7 @@
 [
   {
-    "main": "fridge.jpg",
-    "gallery": ["fridge1.jpg","fridge2.jpeg","fridge3.jpeg","fridge4.jpeg"],
+    "main": "fridge.jpeg",
+    "gallery": ["fridge11.jpeg","fridge22.jpeg","fridge33.jpeg","fridge44.jpeg"],
     "details": {
       "Colour": "Silver",
       "Price": "₹10,000",
@@ -12,8 +12,8 @@
     }
   },
   {
-    "main": "fridge2.jpeg",
-    "gallery": ["fridge3.jpeg","ac2.jpeg","ac3.jpeg","ac4.jpeg"],
+    "main": "ac.jpeg",
+    "gallery": ["ac1.jpeg","ac2.jpeg","ac3.jpeg","ac4.jpeg"],
     "details": {
       "Colour": "White",
       "Price": "₹8,000",
